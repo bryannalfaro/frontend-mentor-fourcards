@@ -11,5 +11,39 @@ body{
 }
 
 header{
+    margin: 50px auto;
+    max-width: 600px;
+    
+    text-align: center;
+    
+}
+
+.textMain{
+    font-weight: 200;
+    color: black;
+}
+
+.highlight{
+    font-weight: 600;
+}
+
+
+p{
+    color: hsl(229, 6%, 66%);
+}
+
+
+.container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0 auto;
+  padding: 20px;
+  max-width: 1440px;
+
+
+}
+
+footer{
     text-align: center;
 }
