@@ -40,6 +40,7 @@ p{
   padding: 20px;
   max-width: 1440px;
   
+  
 }
 
 .team{
@@ -49,12 +50,32 @@ p{
     border-radius: 6px;
     padding: 20px;
     height: 200px;
-    margin: 3px;
+    margin: 2%;
+    
     width: 300px;
     box-shadow: 0 0 20px hsl(229, 6%, 66%);
     transform: translateY(50%);
 }
 
+.team h1{
+    font-size: 20px;
+
+}
+
+.calculator h1{
+    font-size: 20px;
+
+}
+
+.supervisor h1{
+    font-size: 20px;
+
+}
+
+.karma h1{
+    font-size: 20px;
+
+}
 .supervisor{
     width: max-content;
     
@@ -63,16 +84,15 @@ p{
     height: 200px;
     width: 300px;
     padding: 20px;
-    margin: 3px;
+    margin: 2%;
     box-shadow: 0 0 20px hsl(229, 6%, 66%);
 }
 
 .karma{
     width: max-content;
-    
     border-top: 5px solid hsl(34, 97%, 64%);
     border-radius: 6px;
-    margin: 3px;
+    margin: 2%;
     height: 200px;
     width: 300px;
     padding: 20px;
@@ -81,14 +101,14 @@ p{
 }
 
 .calculator{
-    width: max-content;
-    
+    width: max-content;   
     border-top: 5px solid hsl(212, 86%, 64%);
     border-radius: 6px;
     margin: 2%;
     padding: 20px;
     box-shadow: 0 0 20px hsl(229, 6%, 66%);
     height: 200px;
+    width: 300px;
 
 }
 .super{
